@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Workshop_Banner" src="https://github.com/user-attachments/assets/fc75c0c9-377f-458a-b2b8-a8498635d183" />
+<img width="1536" height="1024" alt="Banner" src="https://github.com/user-attachments/assets/9809d930-de82-47d7-bd3b-cafe55810f5e" />
 
 ### DESCRIPTION
 Laptop Arsenal
