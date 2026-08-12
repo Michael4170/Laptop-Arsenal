@@ -21,6 +21,9 @@ Find Laptop Arsenal in the build menu.
 Place and build it.
 Walk up to the laptop and interact.
 
+### Override Arsenal With Custom Arsenal Items
+Laptop Arsenal\Prefabs\Props\Military\Compositions  - US & USSR here will override all other editable prefabs
+
 ### In Game Master
 Open the asset browser and search Laptop. You'll find the full composition (table + laptop) and the standalone laptop. 
 
