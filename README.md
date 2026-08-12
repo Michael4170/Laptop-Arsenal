@@ -32,3 +32,5 @@ This version registers the buildable by modifying faction configs. If you run an
 
 ### Known issues
 - The laptop screen is a static image. A live, updating display isn't planned.
+
+Suggestions and bug reports welcome via [https://discord.gg/SsM7r8b7ae] or through the Github page
