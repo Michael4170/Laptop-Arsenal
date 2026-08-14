@@ -12,6 +12,8 @@ A working arsenal. The laptop is a real arsenal access point. Interact and equip
 
 Game Master support. Both the full composition and the standalone laptop are in the GM asset browser. Useful for pre-built command posts where you want the arsenal to look like it belongs, or for dropping onto furniture you've already placed.
 
+The arsenal does not override the vanilla arsenals but rather duplicate so you can customise these ones seperatly.
+
 
 ### How to use it
 In Conflict
