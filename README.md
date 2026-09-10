@@ -35,4 +35,5 @@ Open the asset browser and search Laptop. You'll find the full composition (tabl
 Suggestions and bug reports welcome via https://discord.gg/SsM7r8b7ae or through the Github page https://github.com/Michael4170/Laptop-Arsenal
 
 Low Poly Laptop model created by zgoosr and licensed under CC Attribution
+
 Military Laptop model created by gerardlavo and licensed under Royalty Free License
