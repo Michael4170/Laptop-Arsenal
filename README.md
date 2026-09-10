@@ -1,7 +1,6 @@
 <img width="1536" height="1024" alt="Banner" src="https://github.com/user-attachments/assets/9809d930-de82-47d7-bd3b-cafe55810f5e" />
 
 ### DESCRIPTION
-Laptop Arsenal
 A field laptop that works as an arsenal terminal.
 Build it at any command tent and you get a small composition — a field table with a powered-on laptop sitting on it. Walk up, interact, and the arsenal opens.
 
