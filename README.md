@@ -29,13 +29,10 @@ Laptop Arsenal\Prefabs\Props\Military\Compositions  - US & USSR here will overri
 ### In Game Master
 Open the asset browser and search Laptop. You'll find the full composition (table + laptop) and the standalone laptop. 
 
-### Server admins
-Nothing to configure. Add the mod to your mod list and the buildable appears automatically.
-
-### Compatibility
-This version registers the buildable by modifying faction configs. If you run another mod that also edits faction configs, load order decides which wins.
-
 ### Known issues
 - The laptop screen is a static image. A live, updating display isn't planned.
 
-Suggestions and bug reports welcome via [https://discord.gg/SsM7r8b7ae] or through the Github page https://github.com/Michael4170/Laptop-Arsenal
+Suggestions and bug reports welcome via https://discord.gg/SsM7r8b7ae or through the Github page https://github.com/Michael4170/Laptop-Arsenal
+
+Low Poly Laptop model created by zgoosr and licensed under CC Attribution
+Military Laptop model created by gerardlavo and licensed under Royalty Free License
